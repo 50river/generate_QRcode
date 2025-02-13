@@ -24,7 +24,7 @@
 
 以下のコマンドでインストールできます。
 
-```bash
+bash
 pip install qrcode[pil]
 
 使用方法

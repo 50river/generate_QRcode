@@ -24,8 +24,7 @@
 
 以下のコマンドでインストールできます。
 
-`bash`
-`pip install qrcode[pil]`
+`bash pip install qrcode[pil]`
 
 使用方法
 1.	CSVファイルの準備

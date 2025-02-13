@@ -24,7 +24,7 @@
 
 以下のコマンドでインストールできます。
 
-`bash pip install qrcode[pil]`
+``` bash pip install qrcode[pil] ```
 
 使用方法
 1.	CSVファイルの準備
@@ -37,7 +37,7 @@ CSV の形式は以下のようになっています：
 2.	スクリプトの実行
 ターミナルまたはコマンドプロンプトで以下のコマンドを実行します：
 
-`python toQR.py`
+``` python toQR.py ```
 
 
 3.	出力の確認
